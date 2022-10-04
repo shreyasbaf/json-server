@@ -1234,5 +1234,56 @@
     "make": "Cadillac",
     "model": "Escalade EXT",
     "year": 2012
-  }]  
+  }],
+  "fixtures": [
+    {
+      "id": 1,
+      "team1": "Legends",
+      "team2": "Superstars",
+      "date": "Nov 1",
+      "time": "10 AM",
+      "result": ""
+    },
+    {
+      "id": 2,
+      "team1": "Sunrisers",
+      "team2": "Superstars",
+      "date": "Nov 1",
+      "time": "12 PM",
+      "result": ""
+
+    },
+    {
+      "id": 3,
+      "team1": "Heroes",
+      "team2": "Legends",
+      "date": "Nov 1",
+      "time": "2 PM",
+      "result": ""
+    },
+    {
+      "id": 4,
+      "team1": "Legends",
+      "team2": "Superstars",
+      "date": "Nov 1",
+      "time": "4 PM",
+      "result": ""
+    },
+    {
+      "id": 5,
+      "team1": "Heroes",
+      "team2": "Titans",
+      "date": "Nov 2",
+      "time": "10 AM",
+      "result": ""
+    },
+    {
+      "id": 6,
+      "team1": "Titans",
+      "team2": "Warriors",
+      "date": "Nov 2",
+      "time": "12 PM",
+      "result": ""
+    }
+  ]
 }
